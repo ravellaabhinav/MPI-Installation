@@ -12,7 +12,8 @@
 
     - [Microsoft MPI v10.0](https://www.microsoft.com/en-us/download/details.aspx?id=57467)
 
-    * **Select both files and click on next button**
+    * Select both files and click on `next` button
+    
       <img src="1.jpg" width="500"/>
 
 3.  After downloading install `msmpisetup.exe` application:
@@ -39,8 +40,9 @@
 
     3. Now choose your `Project Name` and click `Create`.
     4. Call MPI header file: `#include "mpi.h"` as shown below:
-       <img src="4.jpg" width="500" height="200px"/>
+       <img src="4.jpg" width="500" align='left'/>
 
+---
     5. Now navigate to project properties:
        <img src="5.jpg" width="700" height="400px"/>
 
@@ -52,64 +54,4 @@
       </video>
     </figure>
 
-GitHub is one of the world’s largest community of developers. It’s a platform that fosters version control, collaboration and communication between developers.
-
-- GitHub is a code hosting platform for collaboration and version control.
-- GitHub lets you (and others) work together on projects.
-- It also facilitates collaboration features such as bug tracking,feature requests,task management for every project.
-
-## Why use GitHub?
-
-There are a number of reasons..
-
--The first is that it enables slick and easy collaboration i.e allows you to work on code with anyone from anywhere.
-
--Last but not the least version control, tracking and managing changes to software code overtime.
-
-## Advantages of GitHub :
-
-The key benefits of GitHub are as follows:
-
-- It is easy to contribute to open source projects via GitHub.
-
-- It helps to create an excellent document.
-
-- It allows your work to get out there in front of the public.
-
-- You can track changes in your code across versions.
-
-## Features of GitHub :
-
-- Collaboration
-- Integrated issue and bug tracking
-  Graphical representation of branches
-- Git repositories hosting Project management
-- Team management
-- Code hosting
-- Track and assign tasks
-- Conversations
-
-## How do I Use a GitHub?
-
-1. Sign Up
-
-   Create a free GitHub account (https://github.com/) and start using GitHub right away.
-
-2. Install Git
-
-   You can download Git from (https://git-scm.com/downloads) and follow the steps on the intaller.
-
-3. Create a Repository
-4. Create a Branch
-5. Upload files and Commit Changes to a Branch
-6. Open a Pull Request
-7. Merge Your Pull Request
-
-## Contribute
-
-Contributions are always welcome!
-Please read the [contribution guidelines](contributing.md) first.
-
-## :man_astronaut: Show your support
-
-Give a ⭐️ if this helped you!
+    
