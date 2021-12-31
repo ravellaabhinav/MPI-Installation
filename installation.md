@@ -35,6 +35,7 @@
 6.  Now after getting restarted, Click on `Create a new project` and then
 
     1. Select `C++` in `All Programs` drop-down.
+    
     2. Now select `Console App` as shown below and click `next`
        <img src="3.jpg" width="500"/>
 
