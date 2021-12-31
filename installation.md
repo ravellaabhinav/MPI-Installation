@@ -39,8 +39,11 @@
        <img src="3.jpg" width="500"/>
 
     3. Now choose your `Project Name` and click `Create`.
+  
     4. Call MPI header file: `#include "mpi.h"` as shown below:
        <img src="4.jpg" width="500" align='left'/>
+       
+       
 
 ---
     5. Now navigate to project properties:
