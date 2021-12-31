@@ -43,19 +43,5 @@
   
     4. Call MPI header file: `#include "mpi.h"` as shown below:
        <img src="4.jpg" width="500" align='left'/>
-       
-       
-
----
-    5. Now navigate to project properties:
-       <img src="5.jpg" width="700" height="400px"/>
-
-    6.
-
-    <figure class="video_container">
-      <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
-    <source src="v1.mp4" type="video/mp4">
-      </video>
-    </figure>
 
 ## :man_astronaut: ***Work in progress***
