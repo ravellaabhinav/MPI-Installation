@@ -2,6 +2,8 @@
 
 # Message Passing Interface (MPI):
 
+<img src="https://img.icons8.com/ios-filled/50/000000/installing-updates--v1.png" align="right"/>
+
 # Steps:
 
 1.  Download Visual Studio from the following link :
