@@ -1,4 +1,4 @@
-<img src="icon.png" align="right" />
+<img src="https://img.icons8.com/cute-clipart/64/000000/bookmark.png" align="right" />
 
 # Message Passing Interface (MPI):
 
