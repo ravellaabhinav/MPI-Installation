@@ -1,5 +1,3 @@
-<img src="icon.png" align="right" />
-
 # Message Passing Interface (MPI):
 
 # Steps:
